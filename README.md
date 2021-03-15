@@ -44,3 +44,15 @@ http://localhost:9999/Occurences
 - Express Framework is used for the ease it provides in order to create and maintain robust servers. 
 -- Comes with many built-in features and can be used to provide better functionality, increased security, and improved speed
 
+## Unit Testing
+
+- As much as I would have loved to follow a TDD approach, I would have at least liked to include Unit Tests using Mocha and Chai for certain scenarios. Due to time constraints I could not.
+
+- Basic Test Scenarios I would have loved to add for Test 1 -
+-- Unit Test for a sample input to search from (using mock API)
+-- Unit Test for empty divisor info
+-- Unit Test where range Info is incorrect (e.g., upper is small than lower)
+
+- Basic Test Scenarios I would have liked to add for Test 2 -
+-- Unit Test for a sample input text and subtexts
+-- Unit Test for an empty input text
